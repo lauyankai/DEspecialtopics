@@ -13,15 +13,15 @@ The final output is an interactive Microsoft Power BI dashboard that highlights 
 ## 2. Evidence of the Tutorial
 
 **Architecture Overview:**
-![Azure Data Pipeline Architecture](./images/architecture_diagram.png)
-*Figure 1: Illustration of the proposed Azure-based data engineering Medallion pipeline.* [4, 8]
+<img src="./images/architecture_diagram.png" alt="Azure Data Pipeline Architecture" style="width:60%; height:auto;">
+*Figure 1: Illustration of the proposed Azure-based data engineering Medallion pipeline.*
 
 **Data Pipeline Architecture:**
-![Data Pipeline Architecture](./images/pipeline_architecture.png)
+<img src="./images/pipeline_architecture.png" alt="Azure Data Pipeline Architecture" style="width:60%; height:auto;">
 *Figure 2: Data pipeline architecture.*
 
 **Business Insights (Power BI Dashboard):**
-![Power BI Dashboard Results](./images/powerbi_dashboard.png)
+<img src="./images/powerbi_dashboard.png" alt="Power BI Dashboard Results" style="width:60%; height:auto;">
 *Figure 3: The final interactive Power BI dashboard displaying demographic insights, product performance, and KPIs.*
 
 ---
