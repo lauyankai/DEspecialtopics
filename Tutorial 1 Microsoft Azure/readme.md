@@ -17,7 +17,7 @@ The final output is an interactive Microsoft Power BI dashboard that highlights 
 *Figure 1: Illustration of the proposed Azure-based data engineering Medallion pipeline.* [4, 8]
 
 **Data Pipeline Architecture:**
-![Data Pipeline Architecture](./images/databricks_silver_gold.png)
+![Data Pipeline Architecture](./images/pipeline_architecture.png)
 *Figure 2: Data pipeline architecture.*
 
 **Business Insights (Power BI Dashboard):**
