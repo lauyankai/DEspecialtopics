@@ -10,7 +10,7 @@ The final output is an interactive Microsoft Power BI dashboard that highlights 
 
 ---
 
-## 2. Evidence of the Tutorial
+## 2. Tutorial Deliverables
 
 **Architecture Overview:**
 

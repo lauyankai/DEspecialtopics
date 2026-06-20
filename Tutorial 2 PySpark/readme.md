@@ -11,7 +11,7 @@ The pipeline workflow was executed locally on a Windows 11 environment and consi
 
 ---
 
-## 2. Evidence of the Tutorial
+## 2. Tutorial Deliverables
 
 **ETL Architecture & Data Flow:**
 
