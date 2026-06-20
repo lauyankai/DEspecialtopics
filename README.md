@@ -18,27 +18,27 @@ While this E-Portfolio is an individual submission, the projects within were col
 
 Below is an overview of the tutorials and academic assignments contained in this repository. Navigate to their respective folders to view the full documentation, code, and detailed markdown reports.
 
-### 📝 [Assignment 1: Academic Writing (Tutorial Article)](./Tutorial Article  PT. MPM Business Intelligence System)
+### 📝 [Assignment 1: Academic Writing (Tutorial Article)]
 *   **Topic:** Conceptualizing a Business Intelligence (BI) System for PT. MPM.
 *   **Summary:** Authored an academic article designing a 5-layer BI architecture to solve performance monitoring issues for a packaging manufacturing company.
 *   **Key Skills:** Requirements gathering (User Stories), Entity Relationship Diagram (ERD) design, Star Schema multidimensional modeling, and translating business KPIs into technical data warehouse requirements.
 
-### ☁️ [Tutorial 1: Microsoft Azure End-to-End Pipeline](./Tutorial 1 Microsoft Azure)
+### ☁️ [Tutorial 1: Microsoft Azure End-to-End Pipeline]
 *   **Topic:** Cloud Data Engineering & Analytics.
 *   **Summary:** Built a complete ETL pipeline to extract `AdventureWorks` SQL data into the cloud to analyze customer gender demographics and product dependencies. 
 *   **Key Skills:** Implemented a Medallion Architecture (Bronze, Silver, Gold layers) using Azure Data Lake Storage Gen2, Azure Data Factory, Databricks (PySpark), Synapse Analytics, and Microsoft Power BI.
 
-### 🚀 [Tutorial 2: Apache Spark Data Warehousing](./Tutorial 2 PySpark)
+### 🚀 [Tutorial 2: Apache Spark Data Warehousing]
 *   **Topic:** Big Data Processing & Star Schema Architecture.
 *   **Summary:** Processed 2.2 GB of Brazilian school census data using distributed computing, transformed it into optimized Parquet files, and loaded it into a containerized PostgreSQL data warehouse.
 *   **Key Skills:** PySpark DataFrame manipulations, explicit type casting, Docker containerization, JDBC database connections, and managing Windows-specific Hadoop/Spark environments.
 
-### 🧠 [Tutorial 3: AI Algorithm (Image Classification)](./Tutorial 3 AI Algorithm)
+### 🧠 [Tutorial 3: AI Algorithm (Image Classification)]
 *   **Topic:** Deep Learning with Convolutional Neural Networks (CNN).
 *   **Summary:** Developed and evaluated machine learning models to classify the CIFAR-10 image dataset using TensorFlow and Keras.
 *   **Key Skills:** Transitioned from a baseline Artificial Neural Network (ANN) to an enhanced CNN, significantly improving accuracy from ~48% to ~85% by implementing deep architectures, Batch Normalization, Dropout Regularization, and Data Augmentation. 
 
-### 🤖 [Tutorial 4: Generative AI-Assisted ETL](./Tutorial 4 Generative AI)
+### 🤖 [Tutorial 4: Generative AI-Assisted ETL]
 *   **Topic:** AI Agents in Pipeline Automation.
 *   **Summary:** Utilized Generative AI prompts to build an automated ETL pipeline that extracts real-time meteorological data from WeatherAPI.com and loads it into a Firebase Firestore document database.
 *   **Key Skills:** Prompt engineering, API integration, flattening highly nested JSON responses into NoSQL-friendly formats, and scheduling cron jobs for continuous data ingestion.
